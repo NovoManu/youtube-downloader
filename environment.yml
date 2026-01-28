@@ -1,0 +1,9 @@
+name: yd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pip
+  - pip:
+    - yt-dlp>=2024.1.0

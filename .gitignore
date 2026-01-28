@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+.conda/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Downloads (optional - uncomment to ignore downloaded files)
+# *.mp4
+# *.mp3
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
